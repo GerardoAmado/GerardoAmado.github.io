@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace al archivo CSS -->
+</head>
+<body>
+    <header>
+        <h1>GERARDO SAÚL AMADO PORTUGAL</h1> <!-- Nombre de GA -->
+        <p>Soy una persona carismática y confiable, destacada por mi liderazgo inspirador y una responsabilidad excepcional. Mi enfoque proactivo y laborioso me permite abordar cada desafío con dedicación y agilidad, siempre orientado hacia la consecución de resultados sobresalientes. Con una notable capacidad de planificación y organización, soy experto en resolver problemas de manera eficiente. Además, mi habilidad para trabajar en equipo facilita la creación de un ambiente colaborativo y motivador, impulsando al grupo hacia el éxito común.</p> <!-- Breve descripción personal -->
+    </header>
+    <section id="about">
+        <h2>Sobre Mí</h2>
+        <p>Soy un ingeniero titulado, colegiado y habilitado por la Escuela Profesional de Ingeniería Electrónica de la Universidad Católica de Santa María, donde me gradué perteneciendo al quinto superior. Con una base sólida en electrónica de control, telecomunicaciones y el área eléctrica, he adquirido una visión integral y avanzada en mi campo. Actualmente, estoy ampliando mis conocimientos en Administración y Negocios en la Universidad Católica San Pablo. Mi experiencia abarca la asesoría en proyectos de automatización y control, así como en mantenimientos predictivos, preventivos y correctivos, trabajando con marcas líderes como SEW EURODRIVE, SIEMENS y ATLAS COPCO. También brindo asesoría en el área eléctrica utilizando productos de LAPP GROUP, garantizando soluciones innovadoras y eficientes. Tengo un dominio intermedio del inglés y conversacional del portugués, lo que me permite comunicarme efectivamente en diversos entornos. Además, disfruto de una vida equilibrada participando en la agrupación de la tuna universitaria UCSM, donde comparto mi pasión por la música. Mi objetivo es seguir creciendo profesionalmente, aportando valor a cada proyecto con un enfoque proactivo y orientado a resultados, siempre dispuesto a superar nuevos desafíos..</p> <!-- Reemplaza con tu biografía -->
+    </section>
+    <section id="social-media">
+        <h2>Sígueme en mis redes sociales</h2>
+        <ul>
+            <li><a href="https://www.facebook.com/saul.amadoportugal?mibextid=ZbWKwL" target="_blank">Facebook</a></li> <!-- Enlace de Facebook -->
+            <li><a href="https://www.linkedin.com/in/gerardo-saul-amado-portugal-5462bb302/" target="_blank">LinkedIn</a></li> <!-- Enlace de LinkedIn -->
+            <li><a href="https://www.instagram.com/ge.amado?igsh=MXFqZGp6NXV3NTlnOA==" target="_blank">Instagram</a></li> <!-- Enlace de Instagram -->
+        </ul>
+    </section>
+</body>
+</html>
